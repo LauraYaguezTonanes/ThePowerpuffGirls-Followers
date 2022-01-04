@@ -1,0 +1,24 @@
+- Crear un contenedor padre con 3 elementos en bloque hijos
+
+Contenedor: 
+ancho 80% alto 60%
+color salmon
+
+Hijos: 
+. ancho  y alto 80px
+. cada uno una imagen de fondo de la carpeta imagenes  
+. cada uno con el atributo id con el nombre del personaje
+. texto con el nombre del personaje centrado en el margen inferior con un color que destaque
+
+- Utilizar la regla css Flexbox para hacer flexibles los elementos del contenedor
+
+- Ubicar a los elementos en fila invertida
+
+- Reducir el ancho del contenedor y desactivar el alto para utilizar la regla Flex Wrap
+
+- Ubicar a los elementos en linea con el mismo espacio entre los elementos y sus bordes
+
+- Ubicar a los elementos al centro de acuerdo a su eje Y 
+
+
+
